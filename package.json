@@ -22,5 +22,9 @@
     "apollo-server-express": "^3.11.1",
     "graphql": "^16.6.0",
     "react-router-dom": "^6.8.0"
+  },
+  "engines": {
+    "node": "18.16.0",
+    "npm": "9.5.1"
   }
 }
